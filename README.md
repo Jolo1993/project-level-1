@@ -53,38 +53,33 @@ Task Service - Mark Task as Completed
 #### Goal: Add the ability to mark a task as completed.
 Deliverable: A REST API endpoint to update task status, with tests.
 User Service - List User's Tasks
-- [ ] 
+- [ ] check marks
 
 #### Goal: Add functionality to list all tasks assigned to a user.
 Deliverable: A REST API endpoint to retrieve all tasks for a user, with tests.
 Dockerize User Service
-- [ ] 
+- [ ] task overview by user
 
 #### Goal: Containerize the User service using Docker.
 Deliverable: A Dockerfile for the User service, with build and run instructions.
 Dockerize Task Service
-- [ ] 
+- [ ] create container for user service
 
 #### Goal: Containerize the Task service using Docker.
 Deliverable: A Dockerfile for the Task service, with build and run instructions.
 Docker Compose Setup
-- [ ] 
-
-#### Goal: Create a Docker Compose file to run both services together.
-Deliverable: A docker-compose.yml file to orchestrate the services.
-Basic Frontend (Optional)
-- [ ] 
+- [ ] create container for task service
 
 #### Goal: Develop a simple frontend to interact with the backend services.
 Deliverable: A basic web interface to create users, tasks, and assign tasks.
 Kubernetes Deployment
-- [ ] 
+- [ ] frontend completed
 
 #### Goal: Deploy the containerized services to a Kubernetes cluster.
 Deliverable: Kubernetes deployment manifests and service definitions.
 Final Testing and Documentation
-- [ ] 
+- [ ] kubernetes manifest for deploy for application
 
 #### Goal: Perform final integration testing and document the project.
 Deliverable: Comprehensive tests for all functionalities and detailed project documentation.
-- [ ] 
+- [ ] Everything works :D
